@@ -28,7 +28,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-[#dcdee5] dark:border-white/10 text-center">
-          <p className="text-xs text-[#a3aabf]">© 2025 AI Resume Analyzer. Built for a better workforce.</p>
+          <p className="text-xs text-[#a3aabf]">© 2026 AI Resume Analyzer. Built for a better workforce.</p>
         </div>
       </div>
     </footer>
